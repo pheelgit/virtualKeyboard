@@ -103,8 +103,8 @@ const Keyboard = {
     mainKeyboard: null,
     textArea: null,
     keys: [],
-    charKeys: [],
     shiftKeys: [],
+    charKeys: [],
   },
 
   properties: {
