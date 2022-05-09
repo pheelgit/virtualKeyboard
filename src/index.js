@@ -100,8 +100,8 @@ const keyList = [{
 
 const Keyboard = {
   elements: {
-    textArea: null,
     mainKeyboard: null,
+    textArea: null,
     keys: [],
     charKeys: [],
     shiftKeys: [],
